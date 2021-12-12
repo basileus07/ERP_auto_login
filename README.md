@@ -4,6 +4,11 @@ If pip isn't installed in your system [click here](https://www.geeksforgeeks.org
 ```python
 pip install selenium
 ```
+```python
+pip install requests
+pip install html5lib
+pip install webdriver_manager   
+```
 ### step to follow:
 STEP 1: Go to login_Data.py file and open in any IDE
 STEP 2: Follow the instructions given there inside.
