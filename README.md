@@ -4,5 +4,8 @@ If pip isn't install in your system [click here](https://www.geeksforgeeks.org/h
 ```python
 pip install selenium
 ```
+### step to follow:
+STEP 1: Go to login_Data.py file and open in any IDE
+STEP 2 : Follow the instructions given there inside.
 
-
+NOTE : The questions are the ones which come as security questions like "Name your favorite actor", "Name your first School" etc. Mention the questions exactly as they are(word to word) and their corresponding answers.
